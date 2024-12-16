@@ -82,6 +82,10 @@ section h2 {
 .galeria-imagens img:hover {
     transform: scale(1.05);
 }
+#projetos .projeto video{
+    width: 300px;
+    height: 300px;
+}
 
 /* Contato */
 form {
